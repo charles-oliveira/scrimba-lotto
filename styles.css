@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-nums {
+  display: flex;
+  justify-content: center;
+  /* flex-wrap: wrap;   */
+}
+
+.number {
+  padding: 10px;
+  border: 1px solid tomato;
+  margin: 0.25em;
+}
